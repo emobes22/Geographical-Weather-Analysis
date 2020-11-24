@@ -16,6 +16,6 @@ For this project, weather data was analyzed to geographical trends in weather pa
 * HTML code was used to apply images and text to the website
 * Hyperlinks were created to help navigating to the different pages
 
-## Authors
+## Author
 
 * **Emily Mobley**
